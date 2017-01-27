@@ -1,0 +1,1025 @@
+﻿Log file open, 01/27/17 20:00:54
+LogInit:Display: Running engine for game: UpsideDown
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1536788660) SRandInit(1536788660).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.082330
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+OCULUS: Info: [CAPI] LibOVR module is located at M:\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll
+OCULUS: Debug: Connected to the server running version (prod = 1).1.10.2(build = 321138) feature version = 0. Client runs version (prod = 1).1.10.2(build = 321138) feature version = 0
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.27-19.00.55:819][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.27-19.00.55:819][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.27-19.00.55:829][  0]LogInit: Computer: DESKTOP-UNUHFP1
+[2017.01.27-19.00.55:829][  0]LogInit: User: SOLID
+[2017.01.27-19.00.55:829][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.27-19.00.55:829][  0]LogInit: High frequency timer resolution =3.320335 MHz
+[2017.01.27-19.00.55:829][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.01.27-19.00.55:829][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.27-19.00.55:829][  0]LogMemory: Process Physical Memory: 272.18 MB used, 272.18 MB peak
+[2017.01.27-19.00.55:829][  0]LogMemory: Process Virtual Memory: 268.43 MB used, 268.43 MB peak
+[2017.01.27-19.00.55:829][  0]LogMemory: Physical Memory: 5577.67 MB used,  10756.04 MB free, 16333.71 MB total
+[2017.01.27-19.00.55:829][  0]LogMemory: Virtual Memory: 720.34 MB used,  10756.04 MB free, 134217728.00 MB total
+[2017.01.27-19.00.55:858][  0]LogTextLocalizationManager: No translations for ('da-DK') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.27-19.00.56:461][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.27-19.00.56:490][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.01.27-19.00.56:490][  0]LogD3D11RHI:       4058/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.27-19.00.56:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.27-19.00.56:492][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.27-19.00.56:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.27-19.00.56:496][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.27-19.00.56:496][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.27-19.00.56:496][  0]LogWindows: EnumDisplayDevices:
+[2017.01.27-19.00.56:496][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.01.27-19.00.56:496][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.01.27-19.00.56:496][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.01.27-19.00.56:497][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.01.27-19.00.56:497][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.01.27-19.00.56:497][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.01.27-19.00.56:497][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.01.27-19.00.56:497][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.01.27-19.00.56:497][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.27-19.00.56:511][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.27-19.00.56:520][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.27-19.00.56:521][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Intermediate/Shaders/WorkingDirectory/16000/).
+[2017.01.27-19.00.56:521][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SOLID/AppData/Local/Temp/UnrealShaderWorkingDir/D278983B4FD5A4493E16D8AD6DC8DDFB/'.
+[2017.01.27-19.00.56:521][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.27-19.00.57:551][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.27-19.00.57:613][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.27-19.00.57:675][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.27-19.00.57:735][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.27-19.00.57:796][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.27-19.00.57:857][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.27-19.00.57:918][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.27-19.00.57:980][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.27-19.00.58:030][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.27-19.00.58:090][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.27-19.00.58:149][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.27-19.00.58:208][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.27-19.00.58:267][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.27-19.00.58:326][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.27-19.00.58:385][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.27-19.00.58:504][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.27-19.00.58:504][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.27-19.00.58:546][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.27-19.00.58:641][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.27-19.00.58:679][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.27-19.00.58:737][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.27-19.00.58:794][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.27-19.00.58:852][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.27-19.00.58:910][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.27-19.00.58:910][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.27-19.00.59:359][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.27-19.00.59:408][  0]LogDerivedDataCache: Loaded boot cache 0.05s 53MB C:/Users/SOLID/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.27-19.00.59:408][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/SOLID/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.27-19.00.59:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.27-19.00.59:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.27-19.00.59:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.27-19.00.59:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.27-19.00.59:424][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.27-19.00.59:436][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SOLID/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.27-19.00.59:671][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.27-19.00.59:674][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.27-19.00.59:890][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.27-19.00.59:939][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.27-19.00.59:991][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.27-19.00.59:991][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.27-19.00.59:991][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.27-19.01.00:506][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: upsidedown, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1326080972
+[2017.01.27-19.01.00:565][  0]LogAssetRegistry: FAssetRegistry took 0.0214 seconds to start up
+[2017.01.27-19.01.00:607][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.018260 seconds
+[2017.01.27-19.01.00:613][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.27-19.01.00:613][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.27-19.01.00:613][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.27-19.01.00:683][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.27-19.01.01:521][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.27-19.01.01:522][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.27-19.01.01:522][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.27-19.01.02:374][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2017.01.27-19.01.02:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.27-19.01.02:451][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.27-19.01.02:830][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.27-19.01.03:244][  0]SourceControl: Info Source control is disabled
+[2017.01.27-19.01.03:292][  0]SourceControl: Info Source control is disabled
+[2017.01.27-19.01.03:344][  0]SourceControl: Info Source control is disabled
+[2017.01.27-19.01.03:393][  0]SourceControl: Info Source control is disabled
+[2017.01.27-19.01.04:787][  0]LogEngine: Initializing Engine...
+[2017.01.27-19.01.04:997][  0]LogHMD: Oculus plugin initialized. Version: 4.14.1-3224400+++UE4+Release-4.14, LibOVR: 1.10.2, SDK: 1.8.0, built Dec  7 2016, 02:15:12
+[2017.01.27-19.01.05:256][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.27-19.01.05:270][  0]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.01.05:279][  0]LogInit: FAudioDevice initialized.
+[2017.01.27-19.01.05:307][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/SOLID/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.27-19.01.05:313][  0]LogInit: Texture streaming: Enabled
+[2017.01.27-19.01.05:566][  0]LogInit: Transaction tracking system initialized
+[2017.01.27-19.01.05:966][  0]BlueprintLog: New page: Editor Load
+[2017.01.27-19.01.06:975][  0]LocalizationService: Info Localization service is disabled
+[2017.01.27-19.01.07:725][  0]LogConsoleResponse:Display: 
+[2017.01.27-19.01.07:872][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.27-19.01.07:872][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.27-19.01.08:887][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/' took 0.01s
+[2017.01.27-19.01.08:937][  0]SourceControl: Info Source control is disabled
+[2017.01.27-19.01.08:938][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.27-19.01.08:938][  0]LightingResults: New page: Lighting Build
+[2017.01.27-19.01.08:982][  0]MapCheck: New page: Map Check
+[2017.01.27-19.01.08:982][  0]LightingResults: New page: Lighting Build
+[2017.01.27-19.01.09:224][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.01.27-19.01.09:224][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.01.27-19.01.09:229][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.27-19.01.09:232][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.27-19.01.09:272][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 39.536ms to complete.
+[2017.01.27-19.01.09:272][  0]LogFileHelpers: Loading map 'Template_Default' took 0.334
+[2017.01.27-19.01.09:373][  0]LogCollectionManager: Loaded 0 collections in 0.002158 seconds
+[2017.01.27-19.01.09:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/Collections/' took 0.01s
+[2017.01.27-19.01.09:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/Developers/SOLID/Collections/' took 0.01s
+[2017.01.27-19.01.09:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/Collections/' took 0.01s
+[2017.01.27-19.01.09:463][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.27-19.01.09:474][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2205 classes and 434 folders.
+[2017.01.27-19.01.09:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.27-19.01.09:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.27-19.01.09:523][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.27-19.01.09:594][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.27-19.01.09:632][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.27-19.01.09:731][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.27-19.01.09:809][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.27-19.01.09:816][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.27-19.01.09:885][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.01.27-19.01.09:886][  0]LogLoad: (Engine Initialization) Total time: 16.13 seconds
+[2017.01.27-19.01.09:886][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.10 seconds
+[2017.01.27-19.01.09:886][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.27-19.01.09:886][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.27-19.01.10:225][  0]LogOcInput: OculusInput pre-init called
+[2017.01.27-19.01.10:237][  0]LogOcInput: OculusInput is initialized. Init status 0. Runtime version: 1.10.2
+[2017.01.27-19.01.10:256][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.27-19.01.10:406][  0]LogRenderer: Reallocating scene render targets to support 1164x904 NumSamples 1 (Frame:2).
+[2017.01.27-19.01.10:564][  1]LogAssetRegistry: Asset discovery search completed in 10.0198 seconds
+[2017.01.27-19.01.10:564][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.27-19.01.10:564][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2017.01.27-19.01.15:287][157]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.01.15:321][157]Cmd: MAP LOAD FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.27-19.01.15:321][157]LightingResults: New page: Lighting Build
+[2017.01.27-19.01.15:321][157]LoadErrors: New page: Loading map: UpsideDown.umap
+[2017.01.27-19.01.15:322][157]MapCheck: New page: Map Check
+[2017.01.27-19.01.15:322][157]LightingResults: New page: Lighting Build
+[2017.01.27-19.01.15:378][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.27-19.01.15:388][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.27-19.01.15:432][157]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.193ms to complete.
+[2017.01.27-19.01.15:432][157]LogFileHelpers: Loading map 'UpsideDown' took 0.112
+[2017.01.27-19.01.27:652][568]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.01.27-19.01.36:090][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.01.36:135][548]LogSavePackage: Save=28.61ms
+[2017.01.27-19.01.36:135][548]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown6C6CEDFD44B061148BC8B7AD62D3FBE2.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.01.36:140][548]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.01.38:040][752]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.01.38:047][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.01.38:047][752]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:01:38 PM)
+[2017.01.27-19.01.38:047][752]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.01.38:049][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2017.01.27-19.01.38:050][752]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.01.38:050][752]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2017.01.27-19.01.38:050][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002867s)
+[2017.01.27-19.01.38:071][752]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.01.38:076][752]LogInit: FAudioDevice initialized.
+[2017.01.27-19.01.38:121][752]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.01.38:123][752]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.01.38
+[2017.01.27-19.01.38:123][752]LogWorld: Bringing up level for play took: 0.000997
+[2017.01.27-19.01.38:170][752]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.01.27-19.01.38:171][752]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.101
+[2017.01.27-19.01.55:514][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.01.55:555][810]LogSavePackage: Save=26.16ms
+[2017.01.27-19.01.55:555][810]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownFE8FF2F546292F527031E0B9190BCAF6.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.01.55:557][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.02.09:188][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.02.09:228][377]LogSavePackage: Save=26.10ms
+[2017.01.27-19.02.09:228][377]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown94205E434342EEFF546A20ACE7EA3C2A.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.02.09:233][377]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.02.09:963][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.02.10:003][458]LogSavePackage: Save=25.95ms
+[2017.01.27-19.02.10:003][458]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown2B1A59094F18FEC0907D9BA9FB1CA030.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.02.10:006][458]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.02.10:649][525]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.02.10:656][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.02.10:657][525]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:02:10 PM)
+[2017.01.27-19.02.10:657][525]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.02.10:658][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001787s)
+[2017.01.27-19.02.10:659][525]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.02.10:659][525]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2017.01.27-19.02.10:659][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002545s)
+[2017.01.27-19.02.10:758][525]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.02.10:824][525]LogInit: FAudioDevice initialized.
+[2017.01.27-19.02.10:858][525]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.02.10:860][525]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.02.10
+[2017.01.27-19.02.10:861][525]LogWorld: Bringing up level for play took: 0.001299
+[2017.01.27-19.02.10:862][525]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.792
+[2017.01.27-19.02.14:994][993]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.02.15:001][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.02.15:002][993]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:02:15 PM)
+[2017.01.27-19.02.15:002][993]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.02.15:004][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002095s)
+[2017.01.27-19.02.15:004][993]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.02.15:004][993]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2017.01.27-19.02.15:005][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002849s)
+[2017.01.27-19.02.15:024][993]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.02.15:029][993]LogInit: FAudioDevice initialized.
+[2017.01.27-19.02.15:059][993]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.02.15:060][993]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.02.15
+[2017.01.27-19.02.15:060][993]LogWorld: Bringing up level for play took: 0.001032
+[2017.01.27-19.02.15:062][993]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.992
+[2017.01.27-19.02.23:754][ 22]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.27-19.02.31:576][892]Cmd: DELETE
+[2017.01.27-19.02.31:576][892]Cmd: ACTOR DELETE
+[2017.01.27-19.02.31:576][892]LogEditorActor: Deleted Actor: PointLight
+[2017.01.27-19.02.31:585][892]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.01.27-19.02.52:732][332]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.02.52:739][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.02.52:739][332]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:02:52 PM)
+[2017.01.27-19.02.52:740][332]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.02.52:741][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001808s)
+[2017.01.27-19.02.52:742][332]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.02.52:742][332]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.01.27-19.02.52:742][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002691s)
+[2017.01.27-19.02.52:762][332]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.02.52:767][332]LogInit: FAudioDevice initialized.
+[2017.01.27-19.02.52:799][332]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.02.52:800][332]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.02.52
+[2017.01.27-19.02.52:801][332]LogWorld: Bringing up level for play took: 0.001001
+[2017.01.27-19.02.52:802][332]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.732
+[2017.01.27-19.03.02:211][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.02:252][440]LogSavePackage: Save=26.29ms
+[2017.01.27-19.03.02:252][440]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownB896744C4380F22453088881ADD5283C.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.02:257][440]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.14:463][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.14:504][847]LogSavePackage: Save=27.33ms
+[2017.01.27-19.03.14:504][847]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownCF3AA89444C7308F0D628DBC89AB8F24.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.14:509][847]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.17:700][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.17:741][215]LogSavePackage: Save=27.10ms
+[2017.01.27-19.03.17:741][215]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown8180FB8D46EC1BF6770C6DB6117C8A20.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.17:746][215]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.18:607][312]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.03.18:614][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.03.18:614][312]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:03:18 PM)
+[2017.01.27-19.03.18:614][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.03.18:616][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001897s)
+[2017.01.27-19.03.18:616][312]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.03.18:617][312]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2017.01.27-19.03.18:617][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002833s)
+[2017.01.27-19.03.18:637][312]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.03.18:641][312]LogInit: FAudioDevice initialized.
+[2017.01.27-19.03.18:674][312]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.03.18:675][312]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.03.18
+[2017.01.27-19.03.18:675][312]LogWorld: Bringing up level for play took: 0.000957
+[2017.01.27-19.03.18:677][312]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.607
+[2017.01.27-19.03.21:688][652]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.01.27-19.03.21:696][652]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.01.27-19.03.22:696][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.22:736][769]LogSavePackage: Save=25.88ms
+[2017.01.27-19.03.22:736][769]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownA6DC22C54DD0A481A1E21FA5C51B5AF2.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.22:741][769]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.24:653][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.24:692][993]LogSavePackage: Save=25.87ms
+[2017.01.27-19.03.24:692][993]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownD7C2B5ED48277AE3025E5CAF29E6BA4B.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.24:695][993]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.26:360][189]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.01.27-19.03.27:553][300]Cmd: SELECT NONE
+[2017.01.27-19.03.28:392][395]LogEditorActor: Deleted Actor: SkyLight
+[2017.01.27-19.03.28:400][395]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.01.27-19.03.29:145][481]Cmd: TRANSACTION UNDO
+[2017.01.27-19.03.29:145][481]LogEditorTransaction: Undo Delete selection
+[2017.01.27-19.03.29:594][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.29:635][519]LogSavePackage: Save=26.40ms
+[2017.01.27-19.03.29:635][519]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown3CBB1C484CC6E15A148BD8AD4BBAB7D7.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.29:640][519]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.32:024][792]LogEditorActor: Deleted Actor: PostProcessVolume
+[2017.01.27-19.03.32:032][792]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.01.27-19.03.33:069][916]Cmd: TRANSACTION UNDO
+[2017.01.27-19.03.33:069][916]LogEditorTransaction: Undo Delete selection
+[2017.01.27-19.03.33:473][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.33:513][948]LogSavePackage: Save=25.75ms
+[2017.01.27-19.03.33:513][948]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown9D2FD8D646847D7C9AD9AEBAF2D8DCB7.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.33:518][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.44:074][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.44:115][200]LogSavePackage: Save=25.79ms
+[2017.01.27-19.03.44:115][200]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown88BDEE614067A3ACD6AEA5B894159467.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.44:117][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.45:016][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.45:057][303]LogSavePackage: Save=26.21ms
+[2017.01.27-19.03.45:057][303]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownD462C66D45CF2FE113F202B3E3D120A5.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.45:059][303]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.52:864][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.52:905][231]LogSavePackage: Save=25.72ms
+[2017.01.27-19.03.52:905][231]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown8DFA9C3644E2D127665D8D905F838711.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.52:907][231]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.03.53:170][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.03.53:210][258]LogSavePackage: Save=25.90ms
+[2017.01.27-19.03.53:210][258]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown827F9A5A45313285ACD47B8EF78119FB.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.03.53:213][258]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.04.08:609][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.04.08:649][ 33]LogSavePackage: Save=25.74ms
+[2017.01.27-19.04.08:649][ 33]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown52F7004140ABE741843F4F89CBFDC8D5.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.04.08:654][ 33]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.04.11:031][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.04.11:071][308]LogSavePackage: Save=25.83ms
+[2017.01.27-19.04.11:071][308]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown5C3F810C49694D89396B2E83B968D631.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.04.11:073][308]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.04.12:367][435]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.04.12:374][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.04.12:374][435]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:04:12 PM)
+[2017.01.27-19.04.12:374][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.04.12:376][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001748s)
+[2017.01.27-19.04.12:376][435]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.04.12:376][435]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2017.01.27-19.04.12:377][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002601s)
+[2017.01.27-19.04.12:396][435]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.04.12:401][435]LogInit: FAudioDevice initialized.
+[2017.01.27-19.04.12:431][435]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.04.12:433][435]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.04.12
+[2017.01.27-19.04.12:433][435]LogWorld: Bringing up level for play took: 0.001011
+[2017.01.27-19.04.12:434][435]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.364
+[2017.01.27-19.04.18:111][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.04.18:152][ 95]LogSavePackage: Save=25.78ms
+[2017.01.27-19.04.18:152][ 95]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown1878A2694D18CA34A8D9358E9AF24F9F.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.04.18:155][ 95]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.01:534][256]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.05.01:541][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.05.01:541][256]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:05:01 PM)
+[2017.01.27-19.05.01:541][256]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.05.01:543][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001819s)
+[2017.01.27-19.05.01:543][256]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.05.01:544][256]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2017.01.27-19.05.01:544][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002554s)
+[2017.01.27-19.05.01:563][256]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.05.01:568][256]LogInit: FAudioDevice initialized.
+[2017.01.27-19.05.01:600][256]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.05.01:602][256]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.05.01
+[2017.01.27-19.05.01:602][256]LogWorld: Bringing up level for play took: 0.001182
+[2017.01.27-19.05.01:603][256]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown -0.466
+[2017.01.27-19.05.06:472][819]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.05.06:479][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.05.06:479][819]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:05:06 PM)
+[2017.01.27-19.05.06:479][819]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.05.06:481][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001744s)
+[2017.01.27-19.05.06:481][819]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.05.06:482][819]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2017.01.27-19.05.06:482][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002527s)
+[2017.01.27-19.05.06:502][819]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.05.06:506][819]LogInit: FAudioDevice initialized.
+[2017.01.27-19.05.06:540][819]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.05.06:542][819]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.05.06
+[2017.01.27-19.05.06:542][819]LogWorld: Bringing up level for play took: 0.001219
+[2017.01.27-19.05.06:543][819]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.474
+[2017.01.27-19.05.10:922][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.10:962][323]LogSavePackage: Save=25.81ms
+[2017.01.27-19.05.10:962][323]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownA634DFFB47948374BB5B59B47C11FAE8.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.10:966][323]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.14:205][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.14:245][703]LogSavePackage: Save=26.06ms
+[2017.01.27-19.05.14:245][703]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown051DF8FB4B6E1BBB2D2D9E9DB914B602.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.14:250][703]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.22:424][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.22:464][671]LogSavePackage: Save=25.91ms
+[2017.01.27-19.05.22:464][671]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownCBD81926405B654EB7A0F3AD5638981B.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.22:469][671]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.24:076][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.24:116][856]LogSavePackage: Save=25.62ms
+[2017.01.27-19.05.24:116][856]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown74CFEFDA4C8F2BA1817AAAAD1F6E0189.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.24:121][856]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.26:715][162]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.05.26:723][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.05.26:723][162]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:05:26 PM)
+[2017.01.27-19.05.26:723][162]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.05.26:725][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001779s)
+[2017.01.27-19.05.26:726][162]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.05.26:726][162]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2017.01.27-19.05.26:726][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002546s)
+[2017.01.27-19.05.26:745][162]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.05.26:750][162]LogInit: FAudioDevice initialized.
+[2017.01.27-19.05.26:778][162]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.05.26:780][162]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.05.26
+[2017.01.27-19.05.26:780][162]LogWorld: Bringing up level for play took: 0.001082
+[2017.01.27-19.05.26:781][162]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.711
+[2017.01.27-19.05.30:669][566]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.05.30:676][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.05.30:677][566]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:05:30 PM)
+[2017.01.27-19.05.30:677][566]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.05.30:679][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001894s)
+[2017.01.27-19.05.30:679][566]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.05.30:679][566]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2017.01.27-19.05.30:679][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002704s)
+[2017.01.27-19.05.30:702][566]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.05.30:707][566]LogInit: FAudioDevice initialized.
+[2017.01.27-19.05.30:737][566]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.05.30:739][566]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.05.30
+[2017.01.27-19.05.30:739][566]LogWorld: Bringing up level for play took: 0.000973
+[2017.01.27-19.05.30:740][566]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.67
+[2017.01.27-19.05.33:881][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.33:922][920]LogSavePackage: Save=27.03ms
+[2017.01.27-19.05.33:922][920]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownB2B536DD40B5296C9791A1BB7222EBE7.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.33:927][920]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.34:699][  8]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.05.34:706][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.05.34:707][  8]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:05:34 PM)
+[2017.01.27-19.05.34:707][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.05.34:708][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001735s)
+[2017.01.27-19.05.34:709][  8]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.05.34:709][  8]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2017.01.27-19.05.34:709][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002467s)
+[2017.01.27-19.05.34:729][  8]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.05.34:734][  8]LogInit: FAudioDevice initialized.
+[2017.01.27-19.05.34:764][  8]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.05.34:766][  8]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.05.34
+[2017.01.27-19.05.34:766][  8]LogWorld: Bringing up level for play took: 0.000916
+[2017.01.27-19.05.34:768][  8]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.698
+[2017.01.27-19.05.43:836][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.43:876][ 73]LogSavePackage: Save=25.91ms
+[2017.01.27-19.05.43:876][ 73]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown621F92554DD84CDFC5DC91809B4A7ADC.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.43:881][ 73]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.46:398][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.46:438][369]LogSavePackage: Save=25.89ms
+[2017.01.27-19.05.46:438][369]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown7E1DA74F408F42997007ABB22509FFF4.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.46:443][369]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.50:896][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.05.50:936][894]LogSavePackage: Save=26.51ms
+[2017.01.27-19.05.50:936][894]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown6447226D4698BD2D9F8A50A9138383D9.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.05.50:941][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.05.51:677][979]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.05.51:684][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.05.51:684][979]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:05:51 PM)
+[2017.01.27-19.05.51:684][979]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.05.51:686][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001847s)
+[2017.01.27-19.05.51:687][979]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.05.51:687][979]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2017.01.27-19.05.51:687][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002565s)
+[2017.01.27-19.05.51:706][979]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.05.51:710][979]LogInit: FAudioDevice initialized.
+[2017.01.27-19.05.51:740][979]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.05.51:742][979]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.05.51
+[2017.01.27-19.05.51:742][979]LogWorld: Bringing up level for play took: 0.001000
+[2017.01.27-19.05.51:743][979]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown -0.326
+[2017.01.27-19.06.00:991][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.06.01:030][ 59]LogSavePackage: Save=25.84ms
+[2017.01.27-19.06.01:030][ 59]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown14AD774B4B42E7EBE7ABD483984C4333.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.06.01:035][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.06.02:102][183]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.06.02:109][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.06.02:109][183]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:06:02 PM)
+[2017.01.27-19.06.02:109][183]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.06.02:111][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001765s)
+[2017.01.27-19.06.02:112][183]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.06.02:112][183]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2017.01.27-19.06.02:112][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002659s)
+[2017.01.27-19.06.02:131][183]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.06.02:136][183]LogInit: FAudioDevice initialized.
+[2017.01.27-19.06.02:169][183]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.06.02:171][183]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.06.02
+[2017.01.27-19.06.02:171][183]LogWorld: Bringing up level for play took: 0.001068
+[2017.01.27-19.06.02:173][183]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.103
+[2017.01.27-19.06.09:240][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.06.09:281][  7]LogSavePackage: Save=25.77ms
+[2017.01.27-19.06.09:281][  7]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown3E8048714FE1FE6DD652D79949872DDD.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.06.09:286][  7]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.06.10:112][102]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.06.10:119][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.06.10:120][102]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:06:10 PM)
+[2017.01.27-19.06.10:120][102]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.06.10:121][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001737s)
+[2017.01.27-19.06.10:122][102]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.06.10:122][102]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2017.01.27-19.06.10:122][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002557s)
+[2017.01.27-19.06.10:142][102]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.06.10:147][102]LogInit: FAudioDevice initialized.
+[2017.01.27-19.06.10:176][102]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.06.10:177][102]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.06.10
+[2017.01.27-19.06.10:177][102]LogWorld: Bringing up level for play took: 0.000915
+[2017.01.27-19.06.10:179][102]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.109
+[2017.01.27-19.06.18:215][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.06.18:256][ 44]LogSavePackage: Save=26.07ms
+[2017.01.27-19.06.18:256][ 44]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown7BD44712416349DAA8A59CB4666AB66B.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.06.18:261][ 44]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.06.38:528][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.06.38:570][552]LogSavePackage: Save=25.99ms
+[2017.01.27-19.06.38:570][552]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown5A28065F4DA06DD9EFE513927D79FA5E.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.06.38:575][552]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.06.41:416][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.06.41:460][884]LogSavePackage: Save=26.50ms
+[2017.01.27-19.06.41:460][884]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown6FD0F97F49031915AD6AD580473CAD30.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.06.41:465][884]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.06.42:290][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.06.42:330][976]LogSavePackage: Save=26.22ms
+[2017.01.27-19.06.42:330][976]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownA4F3128C436E10489936C39E00A837FA.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.06.42:333][976]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.06.42:830][ 32]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.06.42:837][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.06.42:837][ 32]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:06:42 PM)
+[2017.01.27-19.06.42:837][ 32]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.06.42:839][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001756s)
+[2017.01.27-19.06.42:839][ 32]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.06.42:840][ 32]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2017.01.27-19.06.42:840][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002456s)
+[2017.01.27-19.06.42:859][ 32]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.06.42:864][ 32]LogInit: FAudioDevice initialized.
+[2017.01.27-19.06.42:894][ 32]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.06.42:896][ 32]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.06.42
+[2017.01.27-19.06.42:896][ 32]LogWorld: Bringing up level for play took: 0.001003
+[2017.01.27-19.06.42:897][ 32]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 0.827
+[2017.01.27-19.07.20:902][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.07.20:943][537]LogSavePackage: Save=26.26ms
+[2017.01.27-19.07.20:943][537]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown3D4588864CF3E583717909B26942DE41.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.07.20:947][537]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.07.26:903][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.07.26:942][242]LogSavePackage: Save=25.90ms
+[2017.01.27-19.07.26:942][242]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown4BF474C34C58161D1C6B99B9F3110758.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.07.26:947][242]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.07.27:757][335]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.07.27:764][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.07.27:765][335]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:07:27 PM)
+[2017.01.27-19.07.27:765][335]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.07.27:767][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001850s)
+[2017.01.27-19.07.27:767][335]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.07.27:767][335]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2017.01.27-19.07.27:767][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002667s)
+[2017.01.27-19.07.27:788][335]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.07.27:793][335]LogInit: FAudioDevice initialized.
+[2017.01.27-19.07.27:822][335]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.07.27:824][335]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.07.27
+[2017.01.27-19.07.27:824][335]LogWorld: Bringing up level for play took: 0.000942
+[2017.01.27-19.07.27:825][335]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown -0.245
+[2017.01.27-19.07.40:204][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.07.40:244][796]LogSavePackage: Save=25.66ms
+[2017.01.27-19.07.40:244][796]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown96B8C77E4FDF3E5BD0264B98073598EC.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.07.40:248][796]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.07.41:352][924]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.07.41:359][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.07.41:359][924]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:07:41 PM)
+[2017.01.27-19.07.41:359][924]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.07.41:361][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001790s)
+[2017.01.27-19.07.41:362][924]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.07.41:362][924]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2017.01.27-19.07.41:362][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002554s)
+[2017.01.27-19.07.41:381][924]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.07.41:386][924]LogInit: FAudioDevice initialized.
+[2017.01.27-19.07.41:418][924]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.07.41:420][924]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.07.41
+[2017.01.27-19.07.41:420][924]LogWorld: Bringing up level for play took: 0.001030
+[2017.01.27-19.07.41:421][924]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown -0.648
+[2017.01.27-19.07.49:711][896]Cmd: ACTOR SELECT ALL
+[2017.01.27-19.07.49:955][923]Cmd: EDIT COPY
+[2017.01.27-19.07.50:663][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2017.01.27-19.07.57:271][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.07.57:310][768]LogSavePackage: Save=25.56ms
+[2017.01.27-19.07.57:310][768]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown733567964B9EE92E3C1588A23BA54B0E.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.07.57:315][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.07.58:211][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.07.58:251][870]LogSavePackage: Save=26.39ms
+[2017.01.27-19.07.58:251][870]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownC8B72D8D4783BB32D081028CAC27A412.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.07.58:254][870]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.07.59:002][956]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.07.59:009][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.07.59:010][956]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:07:59 PM)
+[2017.01.27-19.07.59:010][956]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.07.59:011][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001793s)
+[2017.01.27-19.07.59:012][956]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.07.59:012][956]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2017.01.27-19.07.59:012][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002557s)
+[2017.01.27-19.07.59:031][956]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.07.59:037][956]LogInit: FAudioDevice initialized.
+[2017.01.27-19.07.59:067][956]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.07.59:069][956]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.07.59
+[2017.01.27-19.07.59:069][956]LogWorld: Bringing up level for play took: 0.000941
+[2017.01.27-19.07.59:070][956]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown 1
+[2017.01.27-19.08.04:970][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.08.05:010][645]LogSavePackage: Save=25.84ms
+[2017.01.27-19.08.05:010][645]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDownB55AA7FF439B95F23DD426BCE543649A.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.08.05:012][645]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.08.05:471][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.08.05:512][696]LogSavePackage: Save=26.16ms
+[2017.01.27-19.08.05:512][696]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown1F72855548F65FBFB5E5FCBF64A90C21.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.08.05:514][696]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.08.17:585][ 97]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.27-19.08.17:592][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.27-19.08.17:593][ 97]PIE: New page: PIE session: UpsideDown (Jan 27, 2017, 9:08:17 PM)
+[2017.01.27-19.08.17:593][ 97]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_UpsideDown
+[2017.01.27-19.08.17:595][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001858s)
+[2017.01.27-19.08.17:595][ 97]LogAIModule: Creating AISystem for world UpsideDown
+[2017.01.27-19.08.17:595][ 97]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2017.01.27-19.08.17:595][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UpsideDown.UpsideDown to /Game/UEDPIE_0_UpsideDown.UpsideDown (0.002606s)
+[2017.01.27-19.08.17:615][ 97]LogInit: XAudio2 using 'VX2770 SERIES-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.27-19.08.17:620][ 97]LogInit: FAudioDevice initialized.
+[2017.01.27-19.08.17:650][ 97]LogLoad: Game class is 'GameModeBase'
+[2017.01.27-19.08.17:651][ 97]LogWorld: Bringing World /Game/UEDPIE_0_UpsideDown.UpsideDown up for play (max tick rate 0) at 2017.01.27-20.08.17
+[2017.01.27-19.08.17:652][ 97]LogWorld: Bringing up level for play took: 0.001193
+[2017.01.27-19.08.17:653][ 97]PIE: Info Play in editor start time for /Game/UEDPIE_0_UpsideDown -0.417
+[2017.01.27-19.08.19:060][262]Cmd: LevelEditor.ToggleImmersive
+[2017.01.27-19.08.19:203][263]LogRenderer: Reallocating scene render targets to support 1340x936 NumSamples 1 (Frame:47131).
+[2017.01.27-19.08.19:250][264]LogRenderer: Reallocating scene render targets to support 1920x1040 NumSamples 1 (Frame:47133).
+[2017.01.27-19.08.46:025][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.08.46:066][402]LogSavePackage: Save=26.37ms
+[2017.01.27-19.08.46:066][402]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown8829E8CA404C140FA4E985934346B443.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.08.46:071][402]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.08.46:442][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UpsideDown" FILE="../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.27-19.08.46:483][442]LogSavePackage: Save=25.90ms
+[2017.01.27-19.08.46:483][442]LogSavePackage: Moving '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/UpsideDown4D2835FB419F45F0DCE3CBBBEF225E07.tmp' to '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap'
+[2017.01.27-19.08.46:485][442]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/UpsideDown.umap
+[2017.01.27-19.15.33:857][933]Cmd: QUIT_EDITOR
+[2017.01.27-19.15.34:697][933]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.27-19.15.34:733][933]LogExit: Preparing to exit.
+[2017.01.27-19.15.35:855][933]LogDirectoryWatcher: A directory notification for 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/' was aborted.
+[2017.01.27-19.15.35:871][933]LogExit: Editor shut down
+[2017.01.27-19.15.35:872][933]LogExit: Transaction tracking system shut down
+[2017.01.27-19.15.35:940][933]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.27-19.15.35:940][933]LogExit: Object subsystem successfully closed.
+[2017.01.27-19.15.35:964][933]LogD3D11RHI: Shutdown
+[2017.01.27-19.15.35:964][933]LogD3D11RHI: CleanupD3DDevice
+[2017.01.27-19.15.36:038][933]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.27-19.15.36:054][933]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.27-19.15.36:054][933]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1964349A-4C2A-96BD-7A5A-4392D001E6D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=91f66ffb4b466730f2e424880aa45d8c%7C8ba65e0dcc6444ff9cd5fcca11918cb3%7Ce57cd75e-8a0e-4af8-9aa1-d6a54fb92a6b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.27-19.15.36:083][933]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.01.27-19.15.36:083][933]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (243)
+[2017.01.27-19.15.36:083][933]LogModuleManager: Shutting down and abandoning module CrashTracker (242)
+[2017.01.27-19.15.36:083][933]LogModuleManager: Shutting down and abandoning module SceneOutliner (241)
+[2017.01.27-19.15.36:083][933]LogModuleManager: Shutting down and abandoning module WidgetCarousel (240)
+[2017.01.27-19.15.36:083][933]LogModuleManager: Shutting down and abandoning module AddContentDialog (239)
+[2017.01.27-19.15.36:083][933]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module GameplayTags (238)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module EditorWidgets (237)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module CollectionManager (236)
+[2017.01.27-19.15.36:084][933]LogDirectoryWatcher: A directory notification for 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/Collections/' was aborted.
+[2017.01.27-19.15.36:084][933]LogDirectoryWatcher: A directory notification for 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/Developers/SOLID/Collections/' was aborted.
+[2017.01.27-19.15.36:084][933]LogDirectoryWatcher: A directory notification for 'C:/Users/SOLID/Documents/Unreal Projects/UpsideDown/Saved/Collections/' was aborted.
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module StatsViewer (235)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module FoliageEdit (234)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module LandscapeEditor (233)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (232)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module ActorPickerMode (231)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module GeometryMode (230)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module TextureAlignMode (229)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module BspMode (228)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module HardwareSurvey (227)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (226)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module AutomationWorker (225)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (224)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module PlacementMode (223)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (222)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (221)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (220)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (219)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (218)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (216)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (215)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module CharacterAI (214)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module SequenceRecorder (213)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module AudioCapture (212)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module SmartSnapping (211)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module SessionServices (210)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module ViewportSnapping (209)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module ViewportInteraction (208)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module LogVisualizer (207)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (206)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module IntroTutorials (205)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (204)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (203)
+[2017.01.27-19.15.36:084][933]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (202)
+[2017.01.27-19.15.36:085][933]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (201)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (200)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (199)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (198)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module InputBindingEditor (197)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module NiagaraEditor (196)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module MergeActors (195)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module SizeMap (194)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module TreeMap (193)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module ReferenceViewer (192)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module LocalizationService (191)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (190)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module HardwareTargeting (189)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (188)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module UndoHistory (187)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module UserFeedback (186)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module XmlParser (185)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module Blutility (184)
+[2017.01.27-19.15.36:684][933]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (183)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (182)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (181)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module SettingsEditor (180)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module ProjectLauncher (179)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module SessionFrontend (178)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module ProfilerClient (177)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (176)
+[2017.01.27-19.15.36:685][933]LogModuleManager: Shutting down and abandoning module DeviceManager (175)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module AutomationController (174)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module AutomationWindow (173)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module Layers (172)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (171)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module DetailCustomizations (170)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module PackagesDialog (169)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module AnimGraph (168)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module Persona (167)
+[2017.01.27-19.15.36:729][933]LogModuleManager: Shutting down and abandoning module Kismet (166)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module GraphEditor (165)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module ClassViewer (164)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module Toolbox (163)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module ModuleUI (162)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module MovieSceneTools (161)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module OutputLog (160)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module GammaUI (159)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module Documentation (158)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module Niagara (157)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (156)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module AnalyticsET (155)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module PortalServices (154)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module PortalRpc (153)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module MessagingRpc (152)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module GameplayDebugger (151)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module AITestSuite (150)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module AIModule (149)
+[2017.01.27-19.15.36:730][933]LogModuleManager: Shutting down and abandoning module ProfilerService (148)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module TaskGraph (147)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module SubstanceEditor (146)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (136)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (134)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module HTML5Networking (133)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (132)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module GeometryCache (131)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module AlembicLibrary (130)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module AlembicImporter (129)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module SuperSearch (128)
+[2017.01.27-19.15.36:919][933]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (127)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (126)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module PluginBrowser (125)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (124)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module EpicSurvey (123)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module DesktopPlatform (122)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (121)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module UObjectPlugin (120)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (119)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (118)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module SourceControl (117)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module GitSourceControl (116)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (115)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (114)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (113)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module MeshPaint (112)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (111)
+[2017.01.27-19.15.36:920][933]LogModuleManager: Shutting down and abandoning module HotReload (110)
+[2017.01.27-19.15.36:921][933]LogModuleManager: Shutting down and abandoning module MainFrame (109)
+[2017.01.27-19.15.36:921][933]LogModuleManager: Shutting down and abandoning module LevelEditor (108)
+[2017.01.27-19.15.36:921][933]LogModuleManager: Shutting down and abandoning module ContentBrowser (107)
+[2017.01.27-19.15.36:922][933]LogModuleManager: Shutting down and abandoning module Paper2DEditor (106)
+[2017.01.27-19.15.36:922][933]LogModuleManager: Shutting down and abandoning module CableComponent (105)
+[2017.01.27-19.15.36:922][933]LogModuleManager: Shutting down and abandoning module UdpMessaging (104)
+[2017.01.27-19.15.37:023][933]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module SubstanceCore (102)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.27-19.15.37:124][933]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.27-19.15.37:127][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.27-19.15.37:127][933]LogDirectoryWatcher: A directory notification for '../../../../../../Users/SOLID/Documents/Unreal Projects/UpsideDown/Content/' was aborted.
+[2017.01.27-19.15.37:127][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.27-19.15.37:127][933]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.27-19.15.37:247][933]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.27-19.15.37:247][933]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.27-19.15.37:247][933]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.27-19.15.37:247][933]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.27-19.15.37:247][933]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.27-19.15.37:247][933]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.27-19.15.37:248][933]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.27-19.15.37:248][933]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.27-19.15.37:261][933]LogDerivedDataCache: Shutdown
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.27-19.15.37:261][933]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.27-19.15.37:262][933]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.27-19.15.37:263][933]LogHMD: Oculus shutdown.
+[2017.01.27-19.15.37:263][933]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.27-19.15.37:263][933]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.27-19.15.37:263][933]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.27-19.15.37:263][933]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.27-19.15.37:263][933]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.27-19.15.37:264][933]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.27-19.15.37:264][933]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.27-19.15.37:264][933]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.27-19.15.37:264][933]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.27-19.15.37:264][933]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.27-19.15.37:264][933]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.27-19.15.37:265][933]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.27-19.15.37:267][933]LogExit: Exiting.
+[2017.01.27-19.15.37:276][933]Log file closed, 01/27/17 20:15:37
